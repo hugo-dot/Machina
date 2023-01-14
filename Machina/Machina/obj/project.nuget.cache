@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPjLr1c93pPP9+zwM08OYd0MFNbkCVAwIesr1EYO2w0Msv3vYgU3znbySiGjir4+gzJEqy75fcrtQ8e9Si3IEQ==",
+  "success": true,
+  "projectFilePath": "/Users/hugo/Projects/Xamarin/1-Machina/Machina/Machina/Machina.csproj",
+  "expectedPackageFiles": [
+    "/Users/hugo/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/hugo/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/hugo/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/hugo/.nuget/packages/xam.plugin.media/5.0.1/xam.plugin.media.5.0.1.nupkg.sha512",
+    "/Users/hugo/.nuget/packages/xamarin.essentials/1.7.4/xamarin.essentials.1.7.4.nupkg.sha512",
+    "/Users/hugo/.nuget/packages/xamarin.forms/5.0.0.2545/xamarin.forms.5.0.0.2545.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{277B448B-1F11-4EA4-A2F9-802B867DCABA}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_32_arm64-v8a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Machina/Machina/MainPage.xaml.cs">
+    <Files>
+      <File FileName="../../../.nuget/packages/xam.plugin.media/5.0.1/readme.txt" />
+      <File FileName="Machina/Machina.Android/MainActivity.cs" />
+      <File FileName="Machina/Machina.Android/Properties/AndroidManifest.xml" />
+      <File FileName="Machina/Machina.iOS/Properties/AssemblyInfo.cs" />
+      <File FileName="Machina/Machina.Android/Properties/AssemblyInfo.cs" />
+      <File FileName="Machina/Machina.Android/Resources/XML/file_paths.xml" />
+      <File FileName="Machina/Machina.iOS/Info.plist" />
+      <File FileName="Machina/Machina/MainPage.xaml" />
+      <File FileName="Machina/Machina/MainPage.xaml.cs" Line="59" Column="2" />
+      <File FileName="../../../.nuget/packages/plugin.currentactivity/2.1.0.4/readme.txt" />
+      <File FileName="Machina/Machina/ScannerPage.xaml" />
+      <File FileName="Machina/Machina/ScannerPage.xaml.cs" />
+      <File FileName="Machina/Machina/App.xaml.cs" />
+      <File FileName="Machina/Machina/Machina.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Machina" expanded="True">
+            <Node name="Machina" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="ScannerPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Machina.Android" expanded="True" />
+            <Node name="Machina.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Machina.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7DE6D66F-84A6-4F97-B784-059D23FB97C3" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Machina.Android PreferredExecutionTarget="Android.Pixel_3a_API_32_arm64-v8a" />
+</Properties>
